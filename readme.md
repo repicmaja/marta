@@ -1,1 +1,1 @@
-Hello
+JA sam tekst samo na novoj grani
